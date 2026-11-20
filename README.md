@@ -85,6 +85,13 @@ Each GPU contains up to 55 fields:
 
 Take a look at [`docs/meaning-fields.md`](docs/meaning-fields.md) to understand the meaning of the fields 
 
+## GPU Image
+You can use the following URL to capture GPU screenshots. You can retrieve the `tpu_id` value from the JSON.
+
+```
+https://raw.githubusercontent.com/PloraAI/gpu-images/refs/heads/main/front-thumb/{tpu_id}.jpg
+```
+
 ## Usage
 
 **Direct URL:**
